@@ -1,1 +1,1 @@
-module.exports = exports = require('./lib/breadcrumbs');
+module.exports = exports = require('./lib/breadcrumbs')

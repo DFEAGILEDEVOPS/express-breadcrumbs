@@ -16,5 +16,8 @@
     "express-breadcrumbs"
   ],
   "author": "Heroic Yang <me@heroicyang.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "standard": "^14.3.1"
+  }
 }
